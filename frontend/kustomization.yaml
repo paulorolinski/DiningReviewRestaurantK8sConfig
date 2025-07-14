@@ -6,4 +6,4 @@ resources:
 images:
 - name: opjorr/dining-frontend:latest
   newName: opjorr/dining-frontend
-  newTag: f583610debeafc912e415694a373f35c43236f37
+  newTag: 48403c44f635cbaa302f9e78ec6721878d4efe98
